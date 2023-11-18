@@ -1,0 +1,16 @@
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\bin\Debug\net6.0-windows\Practica 9.exe
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\bin\Debug\net6.0-windows\Practica 9.deps.json
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\bin\Debug\net6.0-windows\Practica 9.runtimeconfig.json
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\bin\Debug\net6.0-windows\Practica 9.dll
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\bin\Debug\net6.0-windows\Practica 9.pdb
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica_9.Form1.resources
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.csproj.GenerateResource.cache
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.AssemblyInfoInputs.cache
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.AssemblyInfo.cs
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.csproj.CoreCompileInputs.cache
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.dll
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\refint\Practica 9.dll
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.pdb
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\Practica 9.genruntimeconfig.cache
+C:\Users\GEMELAS\Desktop\Practicas 2 U3 vs\Practica 9\obj\Debug\net6.0-windows\ref\Practica 9.dll
